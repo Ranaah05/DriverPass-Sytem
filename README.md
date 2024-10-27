@@ -1,2 +1,10 @@
 # DriverPass-Sytem
-DriverPass Business + System Requirements Documents from Systems Analysis and Design Course at SNHU
+DriverPass Business Requirements + System Design Documents from Systems Analysis and Design Course at SNHU.
+
+The Driver Pass System is for a driving school website. On the customer's end, the website was a space where a student could create an account with the driving shool and be able to take practice exams linked to the driving school's state DMV regulations. The student could also pick out a package for in person driving lessons to be able to pay for a certain amount. After a package is bought the student can schedule in person driving lessons from the website, being able to view available booknigs and instructors. Administrators can update student info at any time, as well as cancel/reschedule appointments if students do not want to do it themselves.
+
+I think I did a good job particularly on my UML use case diagram, as well as my Non-Functional section of my Business Requirements document. These were my most detailed and thought out in my opinion. If I could go back and revise, I would likely create a more detailed class diagram. I would improve it by thinking through the methods and variables more, and the individual relationships each class has with each other. 
+
+I made sure to implement user needs into the system design. Particular aspects such as saving in progress practice exams as a draft instead of having to finish them, as well as scheduling/rescheduling drivers lessons are easily accessed by users. Administrators can also help out users with their accounts and rescheduling. It's important to consider users needs when designing a system as they are the main audience of the system, and if they are not satisfied with it, all is for naught. It is good to also have a customer support system in place in case anything goes wrong, to promote usability and bug fixes.
+
+To approach designing software, begin with planning, then analysis, then the actual beginnings of system design. Having a scope of the project and what the limitations are, then analyzing requirements and what is needed is a great way to prep for the design phase. In the future, after completeing this project I will have a stronger grasp on the definitions for different types of requirements, and what how to specify them in documents. 
